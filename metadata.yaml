@@ -1,0 +1,27 @@
+_repo: Children-s-Hour-with-Red-Riding-Hood-and-Other-Stories_11592
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Piper, Watty, pseud.
+    gutenberg_agent_id: '35167'
+    url: http://www.gutenberg.org/2009/agents/35167
+description: ''
+gutenberg_bookshelf:
+- Children's Picture Books
+- Children's Anthologies
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: "Little Red Riding Hood\r\nThe Goose-girl\r\nBabes in the wood\r\n\
+  The sleeping beauty\r\nSnowdrop and seven little dwarfs."
+title: Children's Hour with Red Riding Hood and Other Stories
+url: http://www.gutenberg.org/ebooks/11592
